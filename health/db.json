@@ -1,0 +1,38 @@
+{
+    "records":[
+    {
+        "NPI": "1234567890",
+        "firstName": "John",
+        "middleName": "D",
+        "lastName": "Smith",
+        "State": "California",
+        "SpecialtyOne": "Primary Care",
+        "SpecialtyTwo": "Internal Medicine",
+        "SpecialtyThree": "Anesthesiologist",
+        "SpecialtyFour": ""
+    },
+    {
+        "NPI": "1234567891",
+        "firstName": "Johnny",
+        "middleName": "C",
+        "lastName": "Smith",
+        "State": "California",
+        "SpecialtyOne": "Primary Care",
+        "SpecialtyTwo": "Internal Medicine",
+        "SpecialtyThree": "Anesthesiologist",
+        "SpecialtyFour": ""
+    },
+    {
+        "NPI": "1234567891",
+        "firstName": "Bro",
+        "middleName": "C",
+        "lastName": "Smith",
+        "State": "California",
+        "SpecialtyOne": "Primary Care",
+        "SpecialtyTwo": "Internal Medicine",
+        "SpecialtyThree": "Anesthesiologist",
+        "SpecialtyFour": ""
+    }
+]
+    
+}
