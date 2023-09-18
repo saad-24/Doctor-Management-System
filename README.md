@@ -1,26 +1,61 @@
-# Doctor-Management-System
+<h1 align="center" id="title">Doctor Management System</h1>
 
-# 1. Download the zip folder
-![image](https://user-images.githubusercontent.com/75729385/220144579-436803fc-a600-42d7-b674-f249604c4f7a.png)
+<p align="center"><img src="https://socialify.git.ci/saad-24/Doctor-Management-System/image?font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-# 2. Browse to the folder
-![image](https://user-images.githubusercontent.com/75729385/220144936-b79fef5a-ba8b-4c2e-86be-d1e2b95058f0.png)
+<p id="description">A simple doctor management system built using Django on the backend and HTML along with bootstrap5 in the frontend.</p>
 
-# 3. Open CMD, browse to the folder in CMD using cd command and run requirements.txt file
-![image](https://user-images.githubusercontent.com/75729385/220146274-49254687-ba2d-42e8-8880-852a633ed7d5.png)
+<p align="center"><img src="https://img.shields.io/pypi/pyversions/Django?logo=python" alt="shields"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="shields"></p>
 
-# 4. In the same folder in CMD, run the manage.py migrate command to migrate the database tables in models.py file
-![image](https://user-images.githubusercontent.com/75729385/220146905-9ee3598d-906c-44ab-9e17-425015e05631.png)
+<h2>Project Screenshots:</h2>
 
-# 5. Then run manage.py runserver command to view the application in browser on localhost
-![image](https://user-images.githubusercontent.com/75729385/220147627-f17123fc-e137-41f1-97a1-442cc33d9b10.png)
+<img src="https://user-images.githubusercontent.com/75729385/220147811-a1683a61-e33a-4098-b662-6aff91658d03.png" alt="project-screenshot" width="100%" height="400/">
 
-paste the link highlited in the browser and the application is ready to use
-![image](https://user-images.githubusercontent.com/75729385/220147811-a1683a61-e33a-4098-b662-6aff91658d03.png)
+  
+  
+<h2>🧐 Features</h2>
 
-# Further Notes
-1. You are free to edit anything in this application and upload on your repository but a one line credit to me will be appreciated
-2. If you face any errors or difficulties while downloading, viewing and editing the application than feel free to reach out at saadsaud2001.io@gmail.com
-3. You can contribute to this repository too.
+Here're some of the project's best features:
 
-Happy Coding🙌🏻
+*   Beginner friendly
+*   Json backend
+*   Responsive
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Fork the repository</p>
+
+<p>2. Pull the repository</p>
+
+<p>3. Navigate to the project folder</p>
+
+```
+cd folder name
+```
+
+<p>4. Make sure you have django installed</p>
+
+```
+pip install django
+```
+
+<p>5. Run the project</p>
+
+```
+py manage.py runserver
+```
+
+ 
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Python
+*   Django
+*   Bootstrap
+*   Html
+
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+Feel free to open issues and contribute.
